@@ -8,7 +8,7 @@ from starlette.middleware.cors import CORSMiddleware
 
 
 description = """
-Find the best routes your friends love on PeakPeeps!
+This is a description
 """
 
 app = FastAPI(
