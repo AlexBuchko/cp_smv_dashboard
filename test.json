@@ -1,0 +1,18 @@
+{
+  "now": 1231,
+  "rpm": 12312,
+  "speed": 122,
+  "tacho": 1222,
+  "distance": 1211,
+  "voltage": 111,
+  "temp_mos": 532,
+  "temp_motor": 5532,
+  "current_motor": 5322,
+  "current_batt": 2123,
+  "net_energy": 3221,
+  "efficiency": 1221,
+  "avg_speed": 5433,
+  "elapsed": 2111,
+  "time_remaining": 1222,
+  "fault_code": 1
+}
